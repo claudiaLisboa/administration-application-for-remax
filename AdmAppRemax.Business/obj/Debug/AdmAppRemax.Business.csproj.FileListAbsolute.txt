@@ -1,0 +1,4 @@
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\PROJETO FINAL\AdmAppRemax.Business\AdmAppRemax.Business\bin\Debug\AdmAppRemax.Business.dll
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\PROJETO FINAL\AdmAppRemax.Business\AdmAppRemax.Business\bin\Debug\AdmAppRemax.Business.pdb
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\PROJETO FINAL\AdmAppRemax.Business\AdmAppRemax.Business\obj\Debug\AdmAppRemax.Business.dll
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\PROJETO FINAL\AdmAppRemax.Business\AdmAppRemax.Business\obj\Debug\AdmAppRemax.Business.pdb

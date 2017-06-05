@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="AdmAppRemax.Business.Client">
+    <Position X="11.25" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIEAAAAAAAAAAAAAgAECAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Business\clsClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdmAppRemax.Business.ClientList">
+    <Position X="11.25" Y="6.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIIAIAAAAAAAACAAQBAAAAQAAAAAAQAAAgAEAgAA=</HashCode>
+      <FileName>Business\clsClientList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdmAppRemax.Business.Employee">
+    <Position X="6.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAAAAAAgAQAAAAAAAAAAAAACMAIAgIQCCAA=</HashCode>
+      <FileName>Business\clsEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdmAppRemax.Business.House">
+    <Position X="19" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ggKAgACAAQAgAgAUKEgoAAAAAAIgAAQQAAMAASAAgAE=</HashCode>
+      <FileName>Business\clsHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdmAppRemax.Business.HouseHistory">
+    <Position X="21.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAEAAAAIAAAAAAAAAAAAAAAAAAAAAIACEAAAAA=</HashCode>
+      <FileName>Business\clsHouseHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdmAppRemax.Business.HouseHistoryList">
+    <Position X="21.5" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAQBAAAAAAIAAAAQAAAgAAAAAA=</HashCode>
+      <FileName>Business\clsHouseHistoryList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdmAppRemax.Business.HouseList">
+    <Position X="16.5" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAQBAAAAAAIAAAAQAAAgAEAAAA=</HashCode>
+      <FileName>Business\clsHouseList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdmAppRemax.Business.Sale">
+    <Position X="26" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QoAAAAAAAQAAAAAAAAEQAAAAAAAAgAAAACIACAAAGAA=</HashCode>
+      <FileName>Business\clsSale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdmAppRemax.Business.SaleList">
+    <Position X="26" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAQBAAAAAAIAAAAQAAAgAEAAAA=</HashCode>
+      <FileName>Business\clsSaleList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdmAppRemax.Business.Person">
+    <Position X="9" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAEAAACAIAIAEAIEAAAQAAAAAAAAAAAAAIAAAABk=</HashCode>
+      <FileName>Business\clsPerson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdmAppRemax.Business.Permission">
+    <Position X="4" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>SABCAAAAABCAAABAAAAAAgAQAIAAAAgAAAAAgAAABAA=</HashCode>
+      <FileName>Business\clsPermission.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AdmAppRemax.Business.EmployeeList">
+    <Position X="5.25" Y="6.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAACAACAAAKAAQBAAAAAAQAAgAQAAAgAEAAAA=</HashCode>
+      <FileName>Business\clsEmployeeList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="AdmAppRemax.Business.BuildingType">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Business\BuildingType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AdmAppRemax.Business.ClientType">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Business\ClientType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AdmAppRemax.Business.Position">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAEAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Business\PositionType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AdmAppRemax.Business.BuildingStatus">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAIBAA=</HashCode>
+      <FileName>Business\BuildingStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
